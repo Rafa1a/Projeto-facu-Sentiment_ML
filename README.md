@@ -1,5 +1,5 @@
 # Análise de Sentimentos
-
+ 
 Este projeto realiza a análise de sentimentos de textos e tweets utilizando a biblioteca SpaCy e o pacote SpacyTextBlob. O objetivo é identificar a polaridade do texto, que pode variar de -1 (avaliação negativa) a 1 (avaliação positiva).
 
 ## Passos para Execução
